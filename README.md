@@ -16,13 +16,13 @@ Welcome Discount: Get 10% off using the promo code WELCOME10.
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/1-homepage1.png)
 
 ### Product Categories
-![Product Categories](screenshots/category-devices.png)
+![Product Categories](screenshots/5-protekrori.png)
 
-### Product Page
-![Product Page](screenshots/product-page.png)
+### Cart Page
+![Product Page](screenshots/10-cart.png)
 
 ## Technologies
 
